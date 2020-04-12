@@ -1,0 +1,17 @@
+ - (pas obliger mais pas interdit )Faire varier la puissance P selon THETA P pour les trois variantes
+
+ - effectuer la problème avec l'algortihme s.dual() et garder la plus efficace des 2 niveau performance
+
+ - Commenter le résultat de la I.2. : rendement moyen, afficher sites sur un carte, graphe production énergie au cours du temps etc.. 
+
+ - Commenter le temmps de résolution du solver en fonction de la taille du problème 
+
+ - remplacer les variantes a) et b) avec la nouvelle verson du programme 
+
+
+ - représenter solutin obtenues à l'aide de table, graphique, calculer indicateur statistiques et commenter la structure et 
+	tenter d'explique intuitivement
+
+ - comparer solution dun modèle plus sphistique à celle d'un modèle de base => explique le sdifférence
+ 
+ - expliquer procédure et hypothèses 
